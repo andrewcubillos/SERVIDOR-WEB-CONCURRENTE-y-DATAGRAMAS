@@ -6,7 +6,12 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 
-
+ /**
+   * Clase Cliente para probar el funcionamiento del 
+   * Servidor Concurrente
+   *
+   * 
+   */
 public class HttpClient {
 
     public static void main(String[] args) throws IOException {
