@@ -26,3 +26,8 @@ Y luego
 
 ![alt text](https://raw.githubusercontent.com/andrewcubillos/SERVIDOR-WEB-CONCURRENTE-y-DATAGRAMAS/master/img/servidor%20prueba.png)
 
+
+## JavaDoc
+Para generarlo por favor digite el siguiente comando dentro de la carpeta del proyecto:
+> mvn javadoc:javadoc
+
